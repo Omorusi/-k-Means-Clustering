@@ -1,7 +1,8 @@
  # K-Means Clustering on Online Purchase Data
 This project demonstrates the application of K-Means clustering on an online purchase dataset to segment customers based on their age and salary. The goal is to use clustering to identify distinct customer groups for better targeting.
 
-# Techologies
+#  Data Collected
+The data was from github.
 
 # Dataset
 The dataset used for clustering contains the following columns:
