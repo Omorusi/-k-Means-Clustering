@@ -23,12 +23,15 @@ Customer_ID,Gender,Age,Salary,Purchased
 Steps
 # 1. Data Loading and Cleaning
 The dataset is loaded using pandas and cleaned by removing any rows with missing values.
+### Loaded the datset
+![image alt](https://github.com/Omorusi/-k-Means-Clustering/blob/main/Screenshot%202025-03-03%20134850.png?raw=true)
+### Cleaned by removing any rows with missing values.
+
 
 python
 Copy
 Edit
-data = pd.read_csv("Online Purchase.csv")
-data_cleaned = data.dropna()
+
 2. Data Visualization
 Before applying clustering, the relationship between Age and Salary is visualized using a scatter plot.
 
