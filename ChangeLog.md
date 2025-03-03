@@ -10,7 +10,7 @@ Added a filter to exclude these extreme values, improving visualization clarity.
 ## - Cluster Evaluation Metrics
 ### Added Inertia (WCSS) to measure the compactness of clusters.
   ![image alt](https://github.com/Omorusi/-k-Means-Clustering/blob/main/Screenshot%202025-03-03%20224549.png?raw=true)
-  -5.74 suggests that the clusters are relatively compact, but we would need to compare with other k-values to determine if k = 3 is optimal.
+### 5.74 suggests that the clusters are relatively compact, but we would need to compare with other k-values to determine if k = 3 is optimal.
 ### Implemented Silhouette Score to assess the quality and separation of clusters.
  ![image alt](https://github.com/Omorusi/-k-Means-Clustering/blob/main/Screenshot%202025-03-03%20224555.png?raw=true)
--0.361 suggests that the clusters are moderately well-separated but could be improved. It indicates some overlap between clusters, meaning k = 3 might not be the best choice.
+### 0.361 suggests that the clusters are moderately well-separated but could be improved. It indicates some overlap between clusters, meaning k = 3 might not be the best choice.
