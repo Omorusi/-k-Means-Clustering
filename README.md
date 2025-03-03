@@ -74,8 +74,7 @@ After scaling the data, we apply the K-Means clustering algorithm again to see h
 python
 Copy
 Edit
-y_predicted = km.fit_predict(data_cleaned[['Age', 'Salary']])
-data_cleaned['cluster'] = y_predicted
+
 Conclusion
 This project demonstrates how to use K-Means clustering to segment customers based on their Age and Salary. The results of clustering can be used for targeted marketing or personalized recommendations.
 
