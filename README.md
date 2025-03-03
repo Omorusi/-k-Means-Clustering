@@ -3,6 +3,11 @@ This project demonstrates the application of K-Means clustering on an online pur
 
 #  Data Collected
 The data was from github.
+# Technologies Used
+Python: The programming language used for model development.
+Scikit-learn: For machine learning algorithms and utilities like train_test_split, CountVectorizer, and MultinomialNB.
+Matplotlib & Seaborn: For data visualization, including generating pie charts and confusion matrices.
+Pandas: For data manipulation and cleaning.
 
 # Dataset
 The dataset used for clustering contains the following columns:
